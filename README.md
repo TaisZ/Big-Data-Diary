@@ -4,6 +4,7 @@
 算是给自己挖了个大坑，不知道猴年马月可以参透大数据和分布式计算。此帖只是学习目录，后面会陆续更新每个知识点的详细学习日记
 
 ## 1. 分布式存储
+* Hadoop
 * HDFS (Hadoop Distributed File System）
 * Hbase
 
